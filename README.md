@@ -32,7 +32,4 @@
   <br>
   <br>
 
-
-<div align="center">
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do-eun&theme=flag-india&show_icons=true)
-</div>
