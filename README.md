@@ -29,7 +29,10 @@
    <a href="mailto:drakequation@naver.com" target="_blank"><img src="https://img.shields.io/badge/email-8B89CC?style=flat&logo=Mail.Ru&logoColor=white"></a>
   <br>
 </div>
+  <br>
+  <br>
 
-<div>
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do-eun&show_icons=true&theme=radical)
+
+<div align="center">
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do-eun&theme=flag-india&show_icons=true)
 </div>
