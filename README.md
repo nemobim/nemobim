@@ -1,16 +1,35 @@
-## ⚙️ **Tech stack**
 
+<div align="center">
+  <h4>🖍Tech stack🖍</h4>
+	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
+	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor=white"> 
+  <br>
+  <img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white">
+  <img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white">
+  <img src="https://img.shields.io/badge/styled components-DB7093?style=flat&logo=styled-components&logoColor=white">
+  <img src="https://img.shields.io/badge/Axios-5A29E4?style=flat&logo=Axios&logoColor=white">
+  <br>
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=flat&logo=Socket.io&logoColor=white">
+  <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=React Router&logoColor=white">
+  <img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat&logo=ReactHookForm&logoColor=white">
+  <br>
+  <br>
+  <h4>✏️Tool✏️</h4>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=GitHub&logoColor=white">
+  <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white">
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white">
+  <br>
+  <br>
+  <h4>🎨About Me🎨</h4>
+   <a href="https://blog.naver.com/drakequation" target="_blank"><img src="https://img.shields.io/badge/Doeun Blog-03C75A?style=flat&logo=Naver&logoColor=white"></a>
+  <a href="https://www.instagram.com/do_ag47/" target="_blank"><img src="https://img.shields.io/badge/doag47-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
+   <a href="mailto:drakequation@naver.com" target="_blank"><img src="https://img.shields.io/badge/email-8B89CC?style=flat&logo=Mail.Ru&logoColor=white"></a>
+  <br>
+</div>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=black">
-<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=black"> 
-<img src="https://img.shields.io/badge/React Hook Form-EC5990?style=for-the-badge&logo=React&logoColor=white"> 
-<img src="https://img.shields.io/badge/React Router-CA4245?style=for-the-badge&logo=React Router&logoColor=white"> 
-<img src="https://img.shields.io/badge/React Query-FF4154?style=for-the-badge&logo=React Query&logoColor=white">
-<img src="https://img.shields.io/badge/styled components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
-<img src="https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=Axios&logoColor=white">
-<img src="https://img.shields.io/badge/PWA-5A0FC8?style=for-the-badge&logo=PWA&logoColor=white">
-<img src="https://img.shields.io/badge/FCM-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white">
-<img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=Socket.io&logoColor=white">
-<img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=Netlify&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+<div>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do-eun&show_icons=true&theme=radical)
+</div>
