@@ -1,5 +1,8 @@
 
 <div align="center">
+<img width="661" alt="스크린샷 2022-12-27 오전 3 10 26" src="https://user-images.githubusercontent.com/112849712/209574307-040753e0-8921-49ce-aa30-171dfac14619.png">
+<br>
+<br>
   <h4>🖍Tech stack🖍</h4>
 	<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=HTML5&logoColor=white" />
 	<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
