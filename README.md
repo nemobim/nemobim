@@ -28,8 +28,13 @@
   <a href="https://www.instagram.com/do_ag47/" target="_blank"><img src="https://img.shields.io/badge/doag47-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
    <a href="mailto:drakequation@naver.com" target="_blank"><img src="https://img.shields.io/badge/email-8B89CC?style=flat&logo=Mail.Ru&logoColor=white"></a>
   <br>
+	
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do-eun&theme=flag-india&show_icons=true)
+	
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do-eun&theme=flag-india&show_icons=true)
+	
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do-eun&theme=flag-india&show_icons=true)
 </div>
   <br>
   <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=do-eun&theme=flag-india&show_icons=true)
