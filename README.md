@@ -1,6 +1,6 @@
 
 <div align="center">
-<img width="661" alt="스크린샷 2022-12-27 오전 3 10 26" src="https://user-images.githubusercontent.com/112849712/209574307-040753e0-8921-49ce-aa30-171dfac14619.png">
+<img width="661" alt="스크린샷 2023-07-10 오후 10 45 10" src="https://github.com/nemobim/nemobim/assets/112849712/85a7a818-9ab7-421e-a00e-34ce589facee">
 <br>
 <br>
   <h4>🖍Tech stack🖍</h4>
