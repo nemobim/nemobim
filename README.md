@@ -30,8 +30,8 @@
   <br>
   <br>
   <h4>🎨About Me🎨</h4>
-   <a href="https://blog.naver.com/drakequation" target="_blank"><img src="https://img.shields.io/badge/Doeun Blog-03C75A?style=flat&logo=Naver&logoColor=white"></a>
-  <a href="https://www.instagram.com/do_ag47/" target="_blank"><img src="https://img.shields.io/badge/doag47-E4405F?style=flat&logo=Instagram&logoColor=white"></a>
+   <a href="https://blog.naver.com/drakequation" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat&logo=Naver&logoColor=white"></a>
+<a href="https://velog.io/@nemobim" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat&logo=Velog&logoColor=white"></a>
    <a href="mailto:drakequation@naver.com" target="_blank"><img src="https://img.shields.io/badge/email-8B89CC?style=flat&logo=Mail.Ru&logoColor=white"></a>
   <br>
 	<br>
