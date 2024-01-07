@@ -30,7 +30,6 @@
   <br>
   <br>
   <h4>🎨About Me🎨</h4>
-   <a href="https://blog.naver.com/drakequation" target="_blank"><img src="https://img.shields.io/badge/Naver Blog-03C75A?style=flat&logo=Naver&logoColor=white"></a>
 <a href="https://peripheral-nerv.tistory.com" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat&logo=tistory&logoColor=white"></a>
    <a href="mailto:drakequation@naver.com" target="_blank"><img src="https://img.shields.io/badge/email-8B89CC?style=flat&logo=Mail.Ru&logoColor=white"></a>
   <br>
