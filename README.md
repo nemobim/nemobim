@@ -12,9 +12,8 @@
 	<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white"> 
 <br>
   	<img src="https://img.shields.io/badge/Redux-764ABC?style=flat&logo=Redux&logoColor=white">
+	<img src="https://img.shields.io/badge/Recoil-3578E5?style=flat&logo=React Router&logoColor=white">
   	<img src="https://img.shields.io/badge/React Query-FF4154?style=flat&logo=React Query&logoColor=white">
-	 <img src="https://img.shields.io/badge/React Router-CA4245?style=flat&logo=React Router&logoColor=white">
-  	<img src="https://img.shields.io/badge/React Hook Form-EC5990?style=flat&logo=ReactHookForm&logoColor=white">
 <br>
 	<img src="https://img.shields.io/badge/Storybook-FF4785?style=flat&logo=Storybook&logoColor=white">
   	<img src="https://img.shields.io/badge/Styled components-DB7093?style=flat&logo=styled-components&logoColor=white">
